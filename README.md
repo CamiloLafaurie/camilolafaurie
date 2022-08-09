@@ -21,5 +21,5 @@ Hello I am camilo lafaurie, I am an apprentice of (ADSO) in the SENA also I have
 - 😄 Pronouns: He-They
 - ⚡ Fun fact:I have a lot to learn about programming ,but we are here to learn😅
 
-###thanks  :
-🐼
+### thanks 🐼
+

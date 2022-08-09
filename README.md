@@ -8,6 +8,12 @@
 
 Hello I am camilo lafaurie, I am an apprentice of (ADSO) in the SENA also I have a certificate of (technician in systems) in which I learned maintenance and repair of computer and a little database, I also did a small course of virtual English.
 
+| formacion     |       institucion                 | Año      | 
+|---------------|-----------------------------------|----------|
+| primary       | instituto monsalve new-love       |2010-2014 |            
+| secondary     | instituto monsalve new-love       |2015-2021 |  
+| technician    | instituto monsalve new-love (sena)|2019-2020 |
+
 
 - 🌱 I’m currently studing ADSO
 - 👯 I´m bachelor

@@ -18,7 +18,7 @@ Hello I am camilo lafaurie, I am an apprentice of (ADSO) in the SENA also I have
 - 📫 you can find me:
 - https://instagram.com/camilolafo/
 - https://mail.google.com/mail/u/0/#inbox
-- https://facebook.com/camilolafaurie/
+- https://www.facebook.com/camilolafo/
 - 😄 Pronouns: He-They
 - ⚡ Fun fact:I don't know how to program yet but we are here to learn😅
 -->
